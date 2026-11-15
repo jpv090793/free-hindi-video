@@ -1,0 +1,3 @@
+✔ Build finished
+🤖 Android app:
+https://expo.dev/artifacts/eas/xxxxxxxxxx.apk   <-- इस लिंक पर टैप करें!
